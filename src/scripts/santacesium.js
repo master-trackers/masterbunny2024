@@ -2150,7 +2150,7 @@ console.log(data.nextCity.unixarrivalarrival-(currenttimeunixsec/1000))
         debounceTimeout2 = false
         if (data.nextCity.city === "International Space Station") {
           allowedtoheightincrease2 = false
-          TweenLite.to({ progress: 13100 }, data.timeLeft, {
+          TweenLite.to({ progress: 15100 }, data.timeLeft, {
             progress: 300100, // From -amplitude to +amplitude
             ease: Power1.easeInOut, // Smooth easing
             onUpdate: function () {
@@ -2182,7 +2182,7 @@ console.log(data.nextCity.unixarrivalarrival-(currenttimeunixsec/1000))
         } else if (data.lastCity.city === "International Space Station") {
           allowedtoheightincrease2 = false
           TweenLite.to({ progress: 300100}, data.timeLeft, {
-            progress: 13100, // From -amplitude to +amplitude
+            progress: 15100, // From -amplitude to +amplitude
             ease: Power1.easeInOut, // Smooth easing
             onUpdate: function () {
               if (parseInt(this.target.progress) <= 280000 && !alreadyremovediss) {

@@ -43,12 +43,12 @@
   },
   {
     "year": 2025,
-    "hitsduringtracking": 61,
+    "hitsduringtracking": 62,
     "hitsduringpretracking": 0,
-    "hitsbeforepretrackingaftermonthstart": 7,
-    "hitsbeforemonthstart": 136,
+    "hitsbeforepretrackingaftermonthstart": 9,
+    "hitsbeforemonthstart": 138,
     "countries": {
-      "US": 179,
+      "US": 184,
       "CA": 3,
       "RO": 6,
       "AR": 2,
