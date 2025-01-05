@@ -1,0 +1,1244 @@
+{
+  "Holidays": [
+    {
+      "Name": "New Year's Day",
+      "Arrivals": [
+        {
+          "TimeZone": "UTC+14",
+          "Longitude": 150,
+          "UnixTime": 1735761600,
+          "Message": "Celebrating New Year's Day in UTC+14! Longitude: 150\u00b0"
+        },
+        {
+          "TimeZone": "UTC+13",
+          "Longitude": 195,
+          "UnixTime": 1735758000,
+          "Message": "Celebrating New Year's Day in UTC+13! Longitude: 195\u00b0"
+        },
+        {
+          "TimeZone": "UTC+12",
+          "Longitude": 180,
+          "UnixTime": 1735754400,
+          "Message": "Celebrating New Year's Day in UTC+12! Longitude: 180\u00b0"
+        },
+        {
+          "TimeZone": "UTC+11",
+          "Longitude": 165,
+          "UnixTime": 1735750800,
+          "Message": "Celebrating New Year's Day in UTC+11! Longitude: 165\u00b0"
+        },
+        {
+          "TimeZone": "UTC+10",
+          "Longitude": 150,
+          "UnixTime": 1735747200,
+          "Message": "Celebrating New Year's Day in UTC+10! Longitude: 150\u00b0"
+        },
+        {
+          "TimeZone": "UTC+9",
+          "Longitude": 135,
+          "UnixTime": 1735743600,
+          "Message": "Celebrating New Year's Day in UTC+9! Longitude: 135\u00b0"
+        },
+        {
+          "TimeZone": "UTC+8",
+          "Longitude": 120,
+          "UnixTime": 1735740000,
+          "Message": "Celebrating New Year's Day in UTC+8! Longitude: 120\u00b0"
+        },
+        {
+          "TimeZone": "UTC+7",
+          "Longitude": 105,
+          "UnixTime": 1735736400,
+          "Message": "Celebrating New Year's Day in UTC+7! Longitude: 105\u00b0"
+        },
+        {
+          "TimeZone": "UTC+6",
+          "Longitude": 90,
+          "UnixTime": 1735732800,
+          "Message": "Celebrating New Year's Day in UTC+6! Longitude: 90\u00b0"
+        },
+        {
+          "TimeZone": "UTC+5",
+          "Longitude": 75,
+          "UnixTime": 1735729200,
+          "Message": "Celebrating New Year's Day in UTC+5! Longitude: 75\u00b0"
+        },
+        {
+          "TimeZone": "UTC+4",
+          "Longitude": 60,
+          "UnixTime": 1735725600,
+          "Message": "Celebrating New Year's Day in UTC+4! Longitude: 60\u00b0"
+        },
+        {
+          "TimeZone": "UTC+3",
+          "Longitude": 45,
+          "UnixTime": 1735722000,
+          "Message": "Celebrating New Year's Day in UTC+3! Longitude: 45\u00b0"
+        },
+        {
+          "TimeZone": "UTC+2",
+          "Longitude": 30,
+          "UnixTime": 1735718400,
+          "Message": "Celebrating New Year's Day in UTC+2! Longitude: 30\u00b0"
+        },
+        {
+          "TimeZone": "UTC+1",
+          "Longitude": 15,
+          "UnixTime": 1735714800,
+          "Message": "Celebrating New Year's Day in UTC+1! Longitude: 15\u00b0"
+        },
+        {
+          "TimeZone": "UTC+0",
+          "Longitude": 0,
+          "UnixTime": 1735711200,
+          "Message": "Celebrating New Year's Day in UTC+0! Longitude: 0\u00b0"
+        },
+        {
+          "TimeZone": "UTC-1",
+          "Longitude": -15,
+          "UnixTime": 1735707600,
+          "Message": "Celebrating New Year's Day in UTC-1! Longitude: -15\u00b0"
+        },
+        {
+          "TimeZone": "UTC-2",
+          "Longitude": -30,
+          "UnixTime": 1735704000,
+          "Message": "Celebrating New Year's Day in UTC-2! Longitude: -30\u00b0"
+        },
+        {
+          "TimeZone": "UTC-3",
+          "Longitude": -45,
+          "UnixTime": 1735700400,
+          "Message": "Celebrating New Year's Day in UTC-3! Longitude: -45\u00b0"
+        },
+        {
+          "TimeZone": "UTC-4",
+          "Longitude": -60,
+          "UnixTime": 1735696800,
+          "Message": "Celebrating New Year's Day in UTC-4! Longitude: -60\u00b0"
+        },
+        {
+          "TimeZone": "UTC-5",
+          "Longitude": -75,
+          "UnixTime": 1735693200,
+          "Message": "Celebrating New Year's Day in UTC-5! Longitude: -75\u00b0"
+        },
+        {
+          "TimeZone": "UTC-6",
+          "Longitude": -90,
+          "UnixTime": 1735689600,
+          "Message": "Celebrating New Year's Day in UTC-6! Longitude: -90\u00b0"
+        },
+        {
+          "TimeZone": "UTC-7",
+          "Longitude": -105,
+          "UnixTime": 1735686000,
+          "Message": "Celebrating New Year's Day in UTC-7! Longitude: -105\u00b0"
+        },
+        {
+          "TimeZone": "UTC-8",
+          "Longitude": -120,
+          "UnixTime": 1735682400,
+          "Message": "Celebrating New Year's Day in UTC-8! Longitude: -120\u00b0"
+        },
+        {
+          "TimeZone": "UTC-9",
+          "Longitude": -135,
+          "UnixTime": 1735678800,
+          "Message": "Celebrating New Year's Day in UTC-9! Longitude: -135\u00b0"
+        },
+        {
+          "TimeZone": "UTC-10",
+          "Longitude": -150,
+          "UnixTime": 1735675200,
+          "Message": "Celebrating New Year's Day in UTC-10! Longitude: -150\u00b0"
+        }
+      ]
+    },
+    {
+      "Name": "Chinese New Year",
+      "Arrivals": [
+        {
+          "TimeZone": "UTC+14",
+          "Longitude": 150,
+          "UnixTime": 1739217600,
+          "Message": "Celebrating Chinese New Year in UTC+14! Longitude: 150\u00b0"
+        },
+        {
+          "TimeZone": "UTC+13",
+          "Longitude": 195,
+          "UnixTime": 1739214000,
+          "Message": "Celebrating Chinese New Year in UTC+13! Longitude: 195\u00b0"
+        },
+        {
+          "TimeZone": "UTC+12",
+          "Longitude": 180,
+          "UnixTime": 1739210400,
+          "Message": "Celebrating Chinese New Year in UTC+12! Longitude: 180\u00b0"
+        },
+        {
+          "TimeZone": "UTC+11",
+          "Longitude": 165,
+          "UnixTime": 1739206800,
+          "Message": "Celebrating Chinese New Year in UTC+11! Longitude: 165\u00b0"
+        },
+        {
+          "TimeZone": "UTC+10",
+          "Longitude": 150,
+          "UnixTime": 1739203200,
+          "Message": "Celebrating Chinese New Year in UTC+10! Longitude: 150\u00b0"
+        },
+        {
+          "TimeZone": "UTC+9",
+          "Longitude": 135,
+          "UnixTime": 1739199600,
+          "Message": "Celebrating Chinese New Year in UTC+9! Longitude: 135\u00b0"
+        },
+        {
+          "TimeZone": "UTC+8",
+          "Longitude": 120,
+          "UnixTime": 1739196000,
+          "Message": "Celebrating Chinese New Year in UTC+8! Longitude: 120\u00b0"
+        },
+        {
+          "TimeZone": "UTC+7",
+          "Longitude": 105,
+          "UnixTime": 1739192400,
+          "Message": "Celebrating Chinese New Year in UTC+7! Longitude: 105\u00b0"
+        },
+        {
+          "TimeZone": "UTC+6",
+          "Longitude": 90,
+          "UnixTime": 1739188800,
+          "Message": "Celebrating Chinese New Year in UTC+6! Longitude: 90\u00b0"
+        },
+        {
+          "TimeZone": "UTC+5",
+          "Longitude": 75,
+          "UnixTime": 1739185200,
+          "Message": "Celebrating Chinese New Year in UTC+5! Longitude: 75\u00b0"
+        },
+        {
+          "TimeZone": "UTC+4",
+          "Longitude": 60,
+          "UnixTime": 1739181600,
+          "Message": "Celebrating Chinese New Year in UTC+4! Longitude: 60\u00b0"
+        },
+        {
+          "TimeZone": "UTC+3",
+          "Longitude": 45,
+          "UnixTime": 1739178000,
+          "Message": "Celebrating Chinese New Year in UTC+3! Longitude: 45\u00b0"
+        },
+        {
+          "TimeZone": "UTC+2",
+          "Longitude": 30,
+          "UnixTime": 1739174400,
+          "Message": "Celebrating Chinese New Year in UTC+2! Longitude: 30\u00b0"
+        },
+        {
+          "TimeZone": "UTC+1",
+          "Longitude": 15,
+          "UnixTime": 1739170800,
+          "Message": "Celebrating Chinese New Year in UTC+1! Longitude: 15\u00b0"
+        },
+        {
+          "TimeZone": "UTC+0",
+          "Longitude": 0,
+          "UnixTime": 1739167200,
+          "Message": "Celebrating Chinese New Year in UTC+0! Longitude: 0\u00b0"
+        },
+        {
+          "TimeZone": "UTC-1",
+          "Longitude": -15,
+          "UnixTime": 1739163600,
+          "Message": "Celebrating Chinese New Year in UTC-1! Longitude: -15\u00b0"
+        },
+        {
+          "TimeZone": "UTC-2",
+          "Longitude": -30,
+          "UnixTime": 1739160000,
+          "Message": "Celebrating Chinese New Year in UTC-2! Longitude: -30\u00b0"
+        },
+        {
+          "TimeZone": "UTC-3",
+          "Longitude": -45,
+          "UnixTime": 1739156400,
+          "Message": "Celebrating Chinese New Year in UTC-3! Longitude: -45\u00b0"
+        },
+        {
+          "TimeZone": "UTC-4",
+          "Longitude": -60,
+          "UnixTime": 1739152800,
+          "Message": "Celebrating Chinese New Year in UTC-4! Longitude: -60\u00b0"
+        },
+        {
+          "TimeZone": "UTC-5",
+          "Longitude": -75,
+          "UnixTime": 1739149200,
+          "Message": "Celebrating Chinese New Year in UTC-5! Longitude: -75\u00b0"
+        },
+        {
+          "TimeZone": "UTC-6",
+          "Longitude": -90,
+          "UnixTime": 1739145600,
+          "Message": "Celebrating Chinese New Year in UTC-6! Longitude: -90\u00b0"
+        },
+        {
+          "TimeZone": "UTC-7",
+          "Longitude": -105,
+          "UnixTime": 1739142000,
+          "Message": "Celebrating Chinese New Year in UTC-7! Longitude: -105\u00b0"
+        },
+        {
+          "TimeZone": "UTC-8",
+          "Longitude": -120,
+          "UnixTime": 1739138400,
+          "Message": "Celebrating Chinese New Year in UTC-8! Longitude: -120\u00b0"
+        },
+        {
+          "TimeZone": "UTC-9",
+          "Longitude": -135,
+          "UnixTime": 1739134800,
+          "Message": "Celebrating Chinese New Year in UTC-9! Longitude: -135\u00b0"
+        },
+        {
+          "TimeZone": "UTC-10",
+          "Longitude": -150,
+          "UnixTime": 1739131200,
+          "Message": "Celebrating Chinese New Year in UTC-10! Longitude: -150\u00b0"
+        }
+      ]
+    },
+    {
+      "Name": "International Women's Day",
+      "Arrivals": [
+        {
+          "TimeZone": "UTC+14",
+          "Longitude": 150,
+          "UnixTime": 1741464000,
+          "Message": "Celebrating International Women's Day in UTC+14! Longitude: 150\u00b0"
+        },
+        {
+          "TimeZone": "UTC+13",
+          "Longitude": 195,
+          "UnixTime": 1741460400,
+          "Message": "Celebrating International Women's Day in UTC+13! Longitude: 195\u00b0"
+        },
+        {
+          "TimeZone": "UTC+12",
+          "Longitude": 180,
+          "UnixTime": 1741456800,
+          "Message": "Celebrating International Women's Day in UTC+12! Longitude: 180\u00b0"
+        },
+        {
+          "TimeZone": "UTC+11",
+          "Longitude": 165,
+          "UnixTime": 1741453200,
+          "Message": "Celebrating International Women's Day in UTC+11! Longitude: 165\u00b0"
+        },
+        {
+          "TimeZone": "UTC+10",
+          "Longitude": 150,
+          "UnixTime": 1741449600,
+          "Message": "Celebrating International Women's Day in UTC+10! Longitude: 150\u00b0"
+        },
+        {
+          "TimeZone": "UTC+9",
+          "Longitude": 135,
+          "UnixTime": 1741446000,
+          "Message": "Celebrating International Women's Day in UTC+9! Longitude: 135\u00b0"
+        },
+        {
+          "TimeZone": "UTC+8",
+          "Longitude": 120,
+          "UnixTime": 1741442400,
+          "Message": "Celebrating International Women's Day in UTC+8! Longitude: 120\u00b0"
+        },
+        {
+          "TimeZone": "UTC+7",
+          "Longitude": 105,
+          "UnixTime": 1741438800,
+          "Message": "Celebrating International Women's Day in UTC+7! Longitude: 105\u00b0"
+        },
+        {
+          "TimeZone": "UTC+6",
+          "Longitude": 90,
+          "UnixTime": 1741435200,
+          "Message": "Celebrating International Women's Day in UTC+6! Longitude: 90\u00b0"
+        },
+        {
+          "TimeZone": "UTC+5",
+          "Longitude": 75,
+          "UnixTime": 1741431600,
+          "Message": "Celebrating International Women's Day in UTC+5! Longitude: 75\u00b0"
+        },
+        {
+          "TimeZone": "UTC+4",
+          "Longitude": 60,
+          "UnixTime": 1741428000,
+          "Message": "Celebrating International Women's Day in UTC+4! Longitude: 60\u00b0"
+        },
+        {
+          "TimeZone": "UTC+3",
+          "Longitude": 45,
+          "UnixTime": 1741424400,
+          "Message": "Celebrating International Women's Day in UTC+3! Longitude: 45\u00b0"
+        },
+        {
+          "TimeZone": "UTC+2",
+          "Longitude": 30,
+          "UnixTime": 1741420800,
+          "Message": "Celebrating International Women's Day in UTC+2! Longitude: 30\u00b0"
+        },
+        {
+          "TimeZone": "UTC+1",
+          "Longitude": 15,
+          "UnixTime": 1741417200,
+          "Message": "Celebrating International Women's Day in UTC+1! Longitude: 15\u00b0"
+        },
+        {
+          "TimeZone": "UTC+0",
+          "Longitude": 0,
+          "UnixTime": 1741413600,
+          "Message": "Celebrating International Women's Day in UTC+0! Longitude: 0\u00b0"
+        },
+        {
+          "TimeZone": "UTC-1",
+          "Longitude": -15,
+          "UnixTime": 1741410000,
+          "Message": "Celebrating International Women's Day in UTC-1! Longitude: -15\u00b0"
+        },
+        {
+          "TimeZone": "UTC-2",
+          "Longitude": -30,
+          "UnixTime": 1741406400,
+          "Message": "Celebrating International Women's Day in UTC-2! Longitude: -30\u00b0"
+        },
+        {
+          "TimeZone": "UTC-3",
+          "Longitude": -45,
+          "UnixTime": 1741402800,
+          "Message": "Celebrating International Women's Day in UTC-3! Longitude: -45\u00b0"
+        },
+        {
+          "TimeZone": "UTC-4",
+          "Longitude": -60,
+          "UnixTime": 1741399200,
+          "Message": "Celebrating International Women's Day in UTC-4! Longitude: -60\u00b0"
+        },
+        {
+          "TimeZone": "UTC-5",
+          "Longitude": -75,
+          "UnixTime": 1741395600,
+          "Message": "Celebrating International Women's Day in UTC-5! Longitude: -75\u00b0"
+        },
+        {
+          "TimeZone": "UTC-6",
+          "Longitude": -90,
+          "UnixTime": 1741392000,
+          "Message": "Celebrating International Women's Day in UTC-6! Longitude: -90\u00b0"
+        },
+        {
+          "TimeZone": "UTC-7",
+          "Longitude": -105,
+          "UnixTime": 1741388400,
+          "Message": "Celebrating International Women's Day in UTC-7! Longitude: -105\u00b0"
+        },
+        {
+          "TimeZone": "UTC-8",
+          "Longitude": -120,
+          "UnixTime": 1741384800,
+          "Message": "Celebrating International Women's Day in UTC-8! Longitude: -120\u00b0"
+        },
+        {
+          "TimeZone": "UTC-9",
+          "Longitude": -135,
+          "UnixTime": 1741381200,
+          "Message": "Celebrating International Women's Day in UTC-9! Longitude: -135\u00b0"
+        },
+        {
+          "TimeZone": "UTC-10",
+          "Longitude": -150,
+          "UnixTime": 1741377600,
+          "Message": "Celebrating International Women's Day in UTC-10! Longitude: -150\u00b0"
+        }
+      ]
+    },
+    {
+      "Name": "Earth Day",
+      "Arrivals": [
+        {
+          "TimeZone": "UTC+14",
+          "Longitude": 150,
+          "UnixTime": 1745348400,
+          "Message": "Celebrating Earth Day in UTC+14! Longitude: 150\u00b0"
+        },
+        {
+          "TimeZone": "UTC+13",
+          "Longitude": 195,
+          "UnixTime": 1745344800,
+          "Message": "Celebrating Earth Day in UTC+13! Longitude: 195\u00b0"
+        },
+        {
+          "TimeZone": "UTC+12",
+          "Longitude": 180,
+          "UnixTime": 1745341200,
+          "Message": "Celebrating Earth Day in UTC+12! Longitude: 180\u00b0"
+        },
+        {
+          "TimeZone": "UTC+11",
+          "Longitude": 165,
+          "UnixTime": 1745337600,
+          "Message": "Celebrating Earth Day in UTC+11! Longitude: 165\u00b0"
+        },
+        {
+          "TimeZone": "UTC+10",
+          "Longitude": 150,
+          "UnixTime": 1745334000,
+          "Message": "Celebrating Earth Day in UTC+10! Longitude: 150\u00b0"
+        },
+        {
+          "TimeZone": "UTC+9",
+          "Longitude": 135,
+          "UnixTime": 1745330400,
+          "Message": "Celebrating Earth Day in UTC+9! Longitude: 135\u00b0"
+        },
+        {
+          "TimeZone": "UTC+8",
+          "Longitude": 120,
+          "UnixTime": 1745326800,
+          "Message": "Celebrating Earth Day in UTC+8! Longitude: 120\u00b0"
+        },
+        {
+          "TimeZone": "UTC+7",
+          "Longitude": 105,
+          "UnixTime": 1745323200,
+          "Message": "Celebrating Earth Day in UTC+7! Longitude: 105\u00b0"
+        },
+        {
+          "TimeZone": "UTC+6",
+          "Longitude": 90,
+          "UnixTime": 1745319600,
+          "Message": "Celebrating Earth Day in UTC+6! Longitude: 90\u00b0"
+        },
+        {
+          "TimeZone": "UTC+5",
+          "Longitude": 75,
+          "UnixTime": 1745316000,
+          "Message": "Celebrating Earth Day in UTC+5! Longitude: 75\u00b0"
+        },
+        {
+          "TimeZone": "UTC+4",
+          "Longitude": 60,
+          "UnixTime": 1745312400,
+          "Message": "Celebrating Earth Day in UTC+4! Longitude: 60\u00b0"
+        },
+        {
+          "TimeZone": "UTC+3",
+          "Longitude": 45,
+          "UnixTime": 1745308800,
+          "Message": "Celebrating Earth Day in UTC+3! Longitude: 45\u00b0"
+        },
+        {
+          "TimeZone": "UTC+2",
+          "Longitude": 30,
+          "UnixTime": 1745305200,
+          "Message": "Celebrating Earth Day in UTC+2! Longitude: 30\u00b0"
+        },
+        {
+          "TimeZone": "UTC+1",
+          "Longitude": 15,
+          "UnixTime": 1745301600,
+          "Message": "Celebrating Earth Day in UTC+1! Longitude: 15\u00b0"
+        },
+        {
+          "TimeZone": "UTC+0",
+          "Longitude": 0,
+          "UnixTime": 1745298000,
+          "Message": "Celebrating Earth Day in UTC+0! Longitude: 0\u00b0"
+        },
+        {
+          "TimeZone": "UTC-1",
+          "Longitude": -15,
+          "UnixTime": 1745294400,
+          "Message": "Celebrating Earth Day in UTC-1! Longitude: -15\u00b0"
+        },
+        {
+          "TimeZone": "UTC-2",
+          "Longitude": -30,
+          "UnixTime": 1745290800,
+          "Message": "Celebrating Earth Day in UTC-2! Longitude: -30\u00b0"
+        },
+        {
+          "TimeZone": "UTC-3",
+          "Longitude": -45,
+          "UnixTime": 1745287200,
+          "Message": "Celebrating Earth Day in UTC-3! Longitude: -45\u00b0"
+        },
+        {
+          "TimeZone": "UTC-4",
+          "Longitude": -60,
+          "UnixTime": 1745283600,
+          "Message": "Celebrating Earth Day in UTC-4! Longitude: -60\u00b0"
+        },
+        {
+          "TimeZone": "UTC-5",
+          "Longitude": -75,
+          "UnixTime": 1745280000,
+          "Message": "Celebrating Earth Day in UTC-5! Longitude: -75\u00b0"
+        },
+        {
+          "TimeZone": "UTC-6",
+          "Longitude": -90,
+          "UnixTime": 1745276400,
+          "Message": "Celebrating Earth Day in UTC-6! Longitude: -90\u00b0"
+        },
+        {
+          "TimeZone": "UTC-7",
+          "Longitude": -105,
+          "UnixTime": 1745272800,
+          "Message": "Celebrating Earth Day in UTC-7! Longitude: -105\u00b0"
+        },
+        {
+          "TimeZone": "UTC-8",
+          "Longitude": -120,
+          "UnixTime": 1745269200,
+          "Message": "Celebrating Earth Day in UTC-8! Longitude: -120\u00b0"
+        },
+        {
+          "TimeZone": "UTC-9",
+          "Longitude": -135,
+          "UnixTime": 1745265600,
+          "Message": "Celebrating Earth Day in UTC-9! Longitude: -135\u00b0"
+        },
+        {
+          "TimeZone": "UTC-10",
+          "Longitude": -150,
+          "UnixTime": 1745262000,
+          "Message": "Celebrating Earth Day in UTC-10! Longitude: -150\u00b0"
+        }
+      ]
+    },
+    {
+      "Name": "International Workers' Day",
+      "Arrivals": [
+        {
+          "TimeZone": "UTC+14",
+          "Longitude": 150,
+          "UnixTime": 1746126000,
+          "Message": "Celebrating International Workers' Day in UTC+14! Longitude: 150\u00b0"
+        },
+        {
+          "TimeZone": "UTC+13",
+          "Longitude": 195,
+          "UnixTime": 1746122400,
+          "Message": "Celebrating International Workers' Day in UTC+13! Longitude: 195\u00b0"
+        },
+        {
+          "TimeZone": "UTC+12",
+          "Longitude": 180,
+          "UnixTime": 1746118800,
+          "Message": "Celebrating International Workers' Day in UTC+12! Longitude: 180\u00b0"
+        },
+        {
+          "TimeZone": "UTC+11",
+          "Longitude": 165,
+          "UnixTime": 1746115200,
+          "Message": "Celebrating International Workers' Day in UTC+11! Longitude: 165\u00b0"
+        },
+        {
+          "TimeZone": "UTC+10",
+          "Longitude": 150,
+          "UnixTime": 1746111600,
+          "Message": "Celebrating International Workers' Day in UTC+10! Longitude: 150\u00b0"
+        },
+        {
+          "TimeZone": "UTC+9",
+          "Longitude": 135,
+          "UnixTime": 1746108000,
+          "Message": "Celebrating International Workers' Day in UTC+9! Longitude: 135\u00b0"
+        },
+        {
+          "TimeZone": "UTC+8",
+          "Longitude": 120,
+          "UnixTime": 1746104400,
+          "Message": "Celebrating International Workers' Day in UTC+8! Longitude: 120\u00b0"
+        },
+        {
+          "TimeZone": "UTC+7",
+          "Longitude": 105,
+          "UnixTime": 1746100800,
+          "Message": "Celebrating International Workers' Day in UTC+7! Longitude: 105\u00b0"
+        },
+        {
+          "TimeZone": "UTC+6",
+          "Longitude": 90,
+          "UnixTime": 1746097200,
+          "Message": "Celebrating International Workers' Day in UTC+6! Longitude: 90\u00b0"
+        },
+        {
+          "TimeZone": "UTC+5",
+          "Longitude": 75,
+          "UnixTime": 1746093600,
+          "Message": "Celebrating International Workers' Day in UTC+5! Longitude: 75\u00b0"
+        },
+        {
+          "TimeZone": "UTC+4",
+          "Longitude": 60,
+          "UnixTime": 1746090000,
+          "Message": "Celebrating International Workers' Day in UTC+4! Longitude: 60\u00b0"
+        },
+        {
+          "TimeZone": "UTC+3",
+          "Longitude": 45,
+          "UnixTime": 1746086400,
+          "Message": "Celebrating International Workers' Day in UTC+3! Longitude: 45\u00b0"
+        },
+        {
+          "TimeZone": "UTC+2",
+          "Longitude": 30,
+          "UnixTime": 1746082800,
+          "Message": "Celebrating International Workers' Day in UTC+2! Longitude: 30\u00b0"
+        },
+        {
+          "TimeZone": "UTC+1",
+          "Longitude": 15,
+          "UnixTime": 1746079200,
+          "Message": "Celebrating International Workers' Day in UTC+1! Longitude: 15\u00b0"
+        },
+        {
+          "TimeZone": "UTC+0",
+          "Longitude": 0,
+          "UnixTime": 1746075600,
+          "Message": "Celebrating International Workers' Day in UTC+0! Longitude: 0\u00b0"
+        },
+        {
+          "TimeZone": "UTC-1",
+          "Longitude": -15,
+          "UnixTime": 1746072000,
+          "Message": "Celebrating International Workers' Day in UTC-1! Longitude: -15\u00b0"
+        },
+        {
+          "TimeZone": "UTC-2",
+          "Longitude": -30,
+          "UnixTime": 1746068400,
+          "Message": "Celebrating International Workers' Day in UTC-2! Longitude: -30\u00b0"
+        },
+        {
+          "TimeZone": "UTC-3",
+          "Longitude": -45,
+          "UnixTime": 1746064800,
+          "Message": "Celebrating International Workers' Day in UTC-3! Longitude: -45\u00b0"
+        },
+        {
+          "TimeZone": "UTC-4",
+          "Longitude": -60,
+          "UnixTime": 1746061200,
+          "Message": "Celebrating International Workers' Day in UTC-4! Longitude: -60\u00b0"
+        },
+        {
+          "TimeZone": "UTC-5",
+          "Longitude": -75,
+          "UnixTime": 1746057600,
+          "Message": "Celebrating International Workers' Day in UTC-5! Longitude: -75\u00b0"
+        },
+        {
+          "TimeZone": "UTC-6",
+          "Longitude": -90,
+          "UnixTime": 1746054000,
+          "Message": "Celebrating International Workers' Day in UTC-6! Longitude: -90\u00b0"
+        },
+        {
+          "TimeZone": "UTC-7",
+          "Longitude": -105,
+          "UnixTime": 1746050400,
+          "Message": "Celebrating International Workers' Day in UTC-7! Longitude: -105\u00b0"
+        },
+        {
+          "TimeZone": "UTC-8",
+          "Longitude": -120,
+          "UnixTime": 1746046800,
+          "Message": "Celebrating International Workers' Day in UTC-8! Longitude: -120\u00b0"
+        },
+        {
+          "TimeZone": "UTC-9",
+          "Longitude": -135,
+          "UnixTime": 1746043200,
+          "Message": "Celebrating International Workers' Day in UTC-9! Longitude: -135\u00b0"
+        },
+        {
+          "TimeZone": "UTC-10",
+          "Longitude": -150,
+          "UnixTime": 1746039600,
+          "Message": "Celebrating International Workers' Day in UTC-10! Longitude: -150\u00b0"
+        }
+      ]
+    },
+    {
+      "Name": "World Environment Day",
+      "Arrivals": [
+        {
+          "TimeZone": "UTC+14",
+          "Longitude": 150,
+          "UnixTime": 1749150000,
+          "Message": "Celebrating World Environment Day in UTC+14! Longitude: 150\u00b0"
+        },
+        {
+          "TimeZone": "UTC+13",
+          "Longitude": 195,
+          "UnixTime": 1749146400,
+          "Message": "Celebrating World Environment Day in UTC+13! Longitude: 195\u00b0"
+        },
+        {
+          "TimeZone": "UTC+12",
+          "Longitude": 180,
+          "UnixTime": 1749142800,
+          "Message": "Celebrating World Environment Day in UTC+12! Longitude: 180\u00b0"
+        },
+        {
+          "TimeZone": "UTC+11",
+          "Longitude": 165,
+          "UnixTime": 1749139200,
+          "Message": "Celebrating World Environment Day in UTC+11! Longitude: 165\u00b0"
+        },
+        {
+          "TimeZone": "UTC+10",
+          "Longitude": 150,
+          "UnixTime": 1749135600,
+          "Message": "Celebrating World Environment Day in UTC+10! Longitude: 150\u00b0"
+        },
+        {
+          "TimeZone": "UTC+9",
+          "Longitude": 135,
+          "UnixTime": 1749132000,
+          "Message": "Celebrating World Environment Day in UTC+9! Longitude: 135\u00b0"
+        },
+        {
+          "TimeZone": "UTC+8",
+          "Longitude": 120,
+          "UnixTime": 1749128400,
+          "Message": "Celebrating World Environment Day in UTC+8! Longitude: 120\u00b0"
+        },
+        {
+          "TimeZone": "UTC+7",
+          "Longitude": 105,
+          "UnixTime": 1749124800,
+          "Message": "Celebrating World Environment Day in UTC+7! Longitude: 105\u00b0"
+        },
+        {
+          "TimeZone": "UTC+6",
+          "Longitude": 90,
+          "UnixTime": 1749121200,
+          "Message": "Celebrating World Environment Day in UTC+6! Longitude: 90\u00b0"
+        },
+        {
+          "TimeZone": "UTC+5",
+          "Longitude": 75,
+          "UnixTime": 1749117600,
+          "Message": "Celebrating World Environment Day in UTC+5! Longitude: 75\u00b0"
+        },
+        {
+          "TimeZone": "UTC+4",
+          "Longitude": 60,
+          "UnixTime": 1749114000,
+          "Message": "Celebrating World Environment Day in UTC+4! Longitude: 60\u00b0"
+        },
+        {
+          "TimeZone": "UTC+3",
+          "Longitude": 45,
+          "UnixTime": 1749110400,
+          "Message": "Celebrating World Environment Day in UTC+3! Longitude: 45\u00b0"
+        },
+        {
+          "TimeZone": "UTC+2",
+          "Longitude": 30,
+          "UnixTime": 1749106800,
+          "Message": "Celebrating World Environment Day in UTC+2! Longitude: 30\u00b0"
+        },
+        {
+          "TimeZone": "UTC+1",
+          "Longitude": 15,
+          "UnixTime": 1749103200,
+          "Message": "Celebrating World Environment Day in UTC+1! Longitude: 15\u00b0"
+        },
+        {
+          "TimeZone": "UTC+0",
+          "Longitude": 0,
+          "UnixTime": 1749099600,
+          "Message": "Celebrating World Environment Day in UTC+0! Longitude: 0\u00b0"
+        },
+        {
+          "TimeZone": "UTC-1",
+          "Longitude": -15,
+          "UnixTime": 1749096000,
+          "Message": "Celebrating World Environment Day in UTC-1! Longitude: -15\u00b0"
+        },
+        {
+          "TimeZone": "UTC-2",
+          "Longitude": -30,
+          "UnixTime": 1749092400,
+          "Message": "Celebrating World Environment Day in UTC-2! Longitude: -30\u00b0"
+        },
+        {
+          "TimeZone": "UTC-3",
+          "Longitude": -45,
+          "UnixTime": 1749088800,
+          "Message": "Celebrating World Environment Day in UTC-3! Longitude: -45\u00b0"
+        },
+        {
+          "TimeZone": "UTC-4",
+          "Longitude": -60,
+          "UnixTime": 1749085200,
+          "Message": "Celebrating World Environment Day in UTC-4! Longitude: -60\u00b0"
+        },
+        {
+          "TimeZone": "UTC-5",
+          "Longitude": -75,
+          "UnixTime": 1749081600,
+          "Message": "Celebrating World Environment Day in UTC-5! Longitude: -75\u00b0"
+        },
+        {
+          "TimeZone": "UTC-6",
+          "Longitude": -90,
+          "UnixTime": 1749078000,
+          "Message": "Celebrating World Environment Day in UTC-6! Longitude: -90\u00b0"
+        },
+        {
+          "TimeZone": "UTC-7",
+          "Longitude": -105,
+          "UnixTime": 1749074400,
+          "Message": "Celebrating World Environment Day in UTC-7! Longitude: -105\u00b0"
+        },
+        {
+          "TimeZone": "UTC-8",
+          "Longitude": -120,
+          "UnixTime": 1749070800,
+          "Message": "Celebrating World Environment Day in UTC-8! Longitude: -120\u00b0"
+        },
+        {
+          "TimeZone": "UTC-9",
+          "Longitude": -135,
+          "UnixTime": 1749067200,
+          "Message": "Celebrating World Environment Day in UTC-9! Longitude: -135\u00b0"
+        },
+        {
+          "TimeZone": "UTC-10",
+          "Longitude": -150,
+          "UnixTime": 1749063600,
+          "Message": "Celebrating World Environment Day in UTC-10! Longitude: -150\u00b0"
+        }
+      ]
+    },
+    {
+      "Name": "United Nations Day",
+      "Arrivals": [
+        {
+          "TimeZone": "UTC+14",
+          "Longitude": 150,
+          "UnixTime": 1761332400,
+          "Message": "Celebrating United Nations Day in UTC+14! Longitude: 150\u00b0"
+        },
+        {
+          "TimeZone": "UTC+13",
+          "Longitude": 195,
+          "UnixTime": 1761328800,
+          "Message": "Celebrating United Nations Day in UTC+13! Longitude: 195\u00b0"
+        },
+        {
+          "TimeZone": "UTC+12",
+          "Longitude": 180,
+          "UnixTime": 1761325200,
+          "Message": "Celebrating United Nations Day in UTC+12! Longitude: 180\u00b0"
+        },
+        {
+          "TimeZone": "UTC+11",
+          "Longitude": 165,
+          "UnixTime": 1761321600,
+          "Message": "Celebrating United Nations Day in UTC+11! Longitude: 165\u00b0"
+        },
+        {
+          "TimeZone": "UTC+10",
+          "Longitude": 150,
+          "UnixTime": 1761318000,
+          "Message": "Celebrating United Nations Day in UTC+10! Longitude: 150\u00b0"
+        },
+        {
+          "TimeZone": "UTC+9",
+          "Longitude": 135,
+          "UnixTime": 1761314400,
+          "Message": "Celebrating United Nations Day in UTC+9! Longitude: 135\u00b0"
+        },
+        {
+          "TimeZone": "UTC+8",
+          "Longitude": 120,
+          "UnixTime": 1761310800,
+          "Message": "Celebrating United Nations Day in UTC+8! Longitude: 120\u00b0"
+        },
+        {
+          "TimeZone": "UTC+7",
+          "Longitude": 105,
+          "UnixTime": 1761307200,
+          "Message": "Celebrating United Nations Day in UTC+7! Longitude: 105\u00b0"
+        },
+        {
+          "TimeZone": "UTC+6",
+          "Longitude": 90,
+          "UnixTime": 1761303600,
+          "Message": "Celebrating United Nations Day in UTC+6! Longitude: 90\u00b0"
+        },
+        {
+          "TimeZone": "UTC+5",
+          "Longitude": 75,
+          "UnixTime": 1761300000,
+          "Message": "Celebrating United Nations Day in UTC+5! Longitude: 75\u00b0"
+        },
+        {
+          "TimeZone": "UTC+4",
+          "Longitude": 60,
+          "UnixTime": 1761296400,
+          "Message": "Celebrating United Nations Day in UTC+4! Longitude: 60\u00b0"
+        },
+        {
+          "TimeZone": "UTC+3",
+          "Longitude": 45,
+          "UnixTime": 1761292800,
+          "Message": "Celebrating United Nations Day in UTC+3! Longitude: 45\u00b0"
+        },
+        {
+          "TimeZone": "UTC+2",
+          "Longitude": 30,
+          "UnixTime": 1761289200,
+          "Message": "Celebrating United Nations Day in UTC+2! Longitude: 30\u00b0"
+        },
+        {
+          "TimeZone": "UTC+1",
+          "Longitude": 15,
+          "UnixTime": 1761285600,
+          "Message": "Celebrating United Nations Day in UTC+1! Longitude: 15\u00b0"
+        },
+        {
+          "TimeZone": "UTC+0",
+          "Longitude": 0,
+          "UnixTime": 1761282000,
+          "Message": "Celebrating United Nations Day in UTC+0! Longitude: 0\u00b0"
+        },
+        {
+          "TimeZone": "UTC-1",
+          "Longitude": -15,
+          "UnixTime": 1761278400,
+          "Message": "Celebrating United Nations Day in UTC-1! Longitude: -15\u00b0"
+        },
+        {
+          "TimeZone": "UTC-2",
+          "Longitude": -30,
+          "UnixTime": 1761274800,
+          "Message": "Celebrating United Nations Day in UTC-2! Longitude: -30\u00b0"
+        },
+        {
+          "TimeZone": "UTC-3",
+          "Longitude": -45,
+          "UnixTime": 1761271200,
+          "Message": "Celebrating United Nations Day in UTC-3! Longitude: -45\u00b0"
+        },
+        {
+          "TimeZone": "UTC-4",
+          "Longitude": -60,
+          "UnixTime": 1761267600,
+          "Message": "Celebrating United Nations Day in UTC-4! Longitude: -60\u00b0"
+        },
+        {
+          "TimeZone": "UTC-5",
+          "Longitude": -75,
+          "UnixTime": 1761264000,
+          "Message": "Celebrating United Nations Day in UTC-5! Longitude: -75\u00b0"
+        },
+        {
+          "TimeZone": "UTC-6",
+          "Longitude": -90,
+          "UnixTime": 1761260400,
+          "Message": "Celebrating United Nations Day in UTC-6! Longitude: -90\u00b0"
+        },
+        {
+          "TimeZone": "UTC-7",
+          "Longitude": -105,
+          "UnixTime": 1761256800,
+          "Message": "Celebrating United Nations Day in UTC-7! Longitude: -105\u00b0"
+        },
+        {
+          "TimeZone": "UTC-8",
+          "Longitude": -120,
+          "UnixTime": 1761253200,
+          "Message": "Celebrating United Nations Day in UTC-8! Longitude: -120\u00b0"
+        },
+        {
+          "TimeZone": "UTC-9",
+          "Longitude": -135,
+          "UnixTime": 1761249600,
+          "Message": "Celebrating United Nations Day in UTC-9! Longitude: -135\u00b0"
+        },
+        {
+          "TimeZone": "UTC-10",
+          "Longitude": -150,
+          "UnixTime": 1761246000,
+          "Message": "Celebrating United Nations Day in UTC-10! Longitude: -150\u00b0"
+        }
+      ]
+    },
+    {
+      "Name": "Christmas Day",
+      "Arrivals": [
+        {
+          "TimeZone": "UTC+14",
+          "Longitude": 150,
+          "UnixTime": 1766692800,
+          "Message": "Celebrating Christmas Day in UTC+14! Longitude: 150\u00b0"
+        },
+        {
+          "TimeZone": "UTC+13",
+          "Longitude": 195,
+          "UnixTime": 1766689200,
+          "Message": "Celebrating Christmas Day in UTC+13! Longitude: 195\u00b0"
+        },
+        {
+          "TimeZone": "UTC+12",
+          "Longitude": 180,
+          "UnixTime": 1766685600,
+          "Message": "Celebrating Christmas Day in UTC+12! Longitude: 180\u00b0"
+        },
+        {
+          "TimeZone": "UTC+11",
+          "Longitude": 165,
+          "UnixTime": 1766682000,
+          "Message": "Celebrating Christmas Day in UTC+11! Longitude: 165\u00b0"
+        },
+        {
+          "TimeZone": "UTC+10",
+          "Longitude": 150,
+          "UnixTime": 1766678400,
+          "Message": "Celebrating Christmas Day in UTC+10! Longitude: 150\u00b0"
+        },
+        {
+          "TimeZone": "UTC+9",
+          "Longitude": 135,
+          "UnixTime": 1766674800,
+          "Message": "Celebrating Christmas Day in UTC+9! Longitude: 135\u00b0"
+        },
+        {
+          "TimeZone": "UTC+8",
+          "Longitude": 120,
+          "UnixTime": 1766671200,
+          "Message": "Celebrating Christmas Day in UTC+8! Longitude: 120\u00b0"
+        },
+        {
+          "TimeZone": "UTC+7",
+          "Longitude": 105,
+          "UnixTime": 1766667600,
+          "Message": "Celebrating Christmas Day in UTC+7! Longitude: 105\u00b0"
+        },
+        {
+          "TimeZone": "UTC+6",
+          "Longitude": 90,
+          "UnixTime": 1766664000,
+          "Message": "Celebrating Christmas Day in UTC+6! Longitude: 90\u00b0"
+        },
+        {
+          "TimeZone": "UTC+5",
+          "Longitude": 75,
+          "UnixTime": 1766660400,
+          "Message": "Celebrating Christmas Day in UTC+5! Longitude: 75\u00b0"
+        },
+        {
+          "TimeZone": "UTC+4",
+          "Longitude": 60,
+          "UnixTime": 1766656800,
+          "Message": "Celebrating Christmas Day in UTC+4! Longitude: 60\u00b0"
+        },
+        {
+          "TimeZone": "UTC+3",
+          "Longitude": 45,
+          "UnixTime": 1766653200,
+          "Message": "Celebrating Christmas Day in UTC+3! Longitude: 45\u00b0"
+        },
+        {
+          "TimeZone": "UTC+2",
+          "Longitude": 30,
+          "UnixTime": 1766649600,
+          "Message": "Celebrating Christmas Day in UTC+2! Longitude: 30\u00b0"
+        },
+        {
+          "TimeZone": "UTC+1",
+          "Longitude": 15,
+          "UnixTime": 1766646000,
+          "Message": "Celebrating Christmas Day in UTC+1! Longitude: 15\u00b0"
+        },
+        {
+          "TimeZone": "UTC+0",
+          "Longitude": 0,
+          "UnixTime": 1766642400,
+          "Message": "Celebrating Christmas Day in UTC+0! Longitude: 0\u00b0"
+        },
+        {
+          "TimeZone": "UTC-1",
+          "Longitude": -15,
+          "UnixTime": 1766638800,
+          "Message": "Celebrating Christmas Day in UTC-1! Longitude: -15\u00b0"
+        },
+        {
+          "TimeZone": "UTC-2",
+          "Longitude": -30,
+          "UnixTime": 1766635200,
+          "Message": "Celebrating Christmas Day in UTC-2! Longitude: -30\u00b0"
+        },
+        {
+          "TimeZone": "UTC-3",
+          "Longitude": -45,
+          "UnixTime": 1766631600,
+          "Message": "Celebrating Christmas Day in UTC-3! Longitude: -45\u00b0"
+        },
+        {
+          "TimeZone": "UTC-4",
+          "Longitude": -60,
+          "UnixTime": 1766628000,
+          "Message": "Celebrating Christmas Day in UTC-4! Longitude: -60\u00b0"
+        },
+        {
+          "TimeZone": "UTC-5",
+          "Longitude": -75,
+          "UnixTime": 1766624400,
+          "Message": "Celebrating Christmas Day in UTC-5! Longitude: -75\u00b0"
+        },
+        {
+          "TimeZone": "UTC-6",
+          "Longitude": -90,
+          "UnixTime": 1766620800,
+          "Message": "Celebrating Christmas Day in UTC-6! Longitude: -90\u00b0"
+        },
+        {
+          "TimeZone": "UTC-7",
+          "Longitude": -105,
+          "UnixTime": 1766617200,
+          "Message": "Celebrating Christmas Day in UTC-7! Longitude: -105\u00b0"
+        },
+        {
+          "TimeZone": "UTC-8",
+          "Longitude": -120,
+          "UnixTime": 1766613600,
+          "Message": "Celebrating Christmas Day in UTC-8! Longitude: -120\u00b0"
+        },
+        {
+          "TimeZone": "UTC-9",
+          "Longitude": -135,
+          "UnixTime": 1766610000,
+          "Message": "Celebrating Christmas Day in UTC-9! Longitude: -135\u00b0"
+        },
+        {
+          "TimeZone": "UTC-10",
+          "Longitude": -150,
+          "UnixTime": 1766606400,
+          "Message": "Celebrating Christmas Day in UTC-10! Longitude: -150\u00b0"
+        }
+      ]
+    }
+  ]
+}

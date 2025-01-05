@@ -1,0 +1,60 @@
+[
+  {
+    "year": 2024,
+    "hitsduringtracking": 4082,
+    "hitsduringpretracking": 2483,
+    "hitsbeforepretrackingaftermonthstart": 1446,
+    "hitsbeforemonthstart": 4512,
+    "countries": {
+      "US": 11793,
+      "RO": 43,
+      "CA": 143,
+      "FR": 1,
+      "GB": 11,
+      "DE": 26,
+      "BE": 2,
+      "BG": 1,
+      "RS": 16,
+      "IL": 3,
+      "BA": 1,
+      "PT": 1,
+      "SE": 12,
+      "CH": 1,
+      "NL": 41,
+      "ES": 1,
+      "CZ": 1,
+      "TR": 2,
+      "RU": 2,
+      "JP": 14,
+      "IE": 2,
+      "CN": 1,
+      "PL": 16,
+      "DK": 1,
+      "EG": 2,
+      "SG": 3,
+      "IT": 214,
+      "IN": 72,
+      "AU": 2,
+      "SC": 1,
+      "EC": 1,
+      "AL": 42,
+      "GR": 51
+    }
+  },
+  {
+    "year": 2025,
+    "hitsduringtracking": 61,
+    "hitsduringpretracking": 0,
+    "hitsbeforepretrackingaftermonthstart": 7,
+    "hitsbeforemonthstart": 136,
+    "countries": {
+      "US": 179,
+      "CA": 3,
+      "RO": 6,
+      "AR": 2,
+      "AU": 5,
+      "BE": 2,
+      "IT": 7
+    }
+  }
+]
