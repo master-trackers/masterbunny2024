@@ -6,6 +6,8 @@ let alreadyinsertediss = false;
 let trackeneityenabled = true;
 let debounce13479812734 = false;
 let activelyturning = false;
+let lastcitywikipageurl = null;
+let nextcitywikipageurl = null;
 let allowedtotweenheight = true;
 let ended2 = false;
 let actualtime
@@ -82,6 +84,21 @@ function rollabit(finaldest, time) {
   });
 
 }
+function openLastSeen() {
+  const newWindow = window.open("", "_blank", "width=600,height=400,top=100,left=100");
+  newWindow.document.title = "Last Seen City Wikipedia Page";
+  
+  // Load the actual page after setting the filler title
+  newWindow.location.href = lastcitywikipageurl;
+}
+
+function openNextCity() {
+  const newWindow = window.open("", "_blank", "width=600,height=400,top=100,left=100");
+  newWindow.document.title = "Next City Wikipedia Page";
+  
+  // Load the actual page after setting the filler title
+  newWindow.location.href = nextcitywikipageurl;}
+
 // Function to get latitude and longitude from IP address
 async function getLatLongFromIPAddress() {
   // Check if IP address is already stored in local storage
@@ -1996,7 +2013,8 @@ function handleSSE(event) {
       
 actualtime = data.nextCity.unixarrivalarrival-(currenttimeunixsec/1000)
 console.log(data.nextCity.unixarrivalarrival-(currenttimeunixsec/1000))
-
+lastcitywikipageurl = data.lastCity.Wikipedia_attr
+nextcitywikipageurl = data.nextCity.Wikipedia_attr
       function formatTime(seconds) {
         const years = Math.floor(seconds / (3600 * 24 * 365));
         seconds -= years * 3600 * 24 * 365;

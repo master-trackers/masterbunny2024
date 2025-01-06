@@ -761,7 +761,7 @@ body {
     <div class="info-container">
       <div id="hideavailable">
         <div class="info-box">
-          <div id="hideavailable">
+          <div id="hideavailable" onclick="openNextCity()" style="cursor: pointer;">
             <span class="title">Heading for:</span>
             <img src="" id="flag" width="30px;"> <span id="nextCityInfo" class="data">LOADING!!</span>
           </div>
@@ -781,7 +781,7 @@ body {
           </div>
         </div>
       </div>
-      <div id="lastseeninfobox" class="info-box">
+      <div onclick="openLastSeen()" style="cursor: pointer;" id="lastseeninfobox" class="info-box">
         <span class="title">Last Seen:</span>
         <span id="lastCityInfo" class="data">LOADING!!</span><br />
         <span class="notes" id="notes"><img src="" id="flag2" width="200px;"></span>
@@ -790,7 +790,7 @@ body {
         <span class="title"></span>
         <span class="data">Where are we headed?</span>
         <br/>
-        <span class="notes" id="notes"><div class="image-container"><img src="" id="flag3" style="max-height: 140px;">  <span id="flag3title" class="image-title">Your Title</span></div></span><br /><span id="lastCityInfo3" class="data">LOADING!!</span>
+        <span class="notes" id="notes"><div class="image-container" onclick="openNextCity()" style="cursor: pointer;"><img src="" id="flag3" style="max-height: 140px;">  <span id="flag3title" class="image-title">Your Title</span></div></span><br /><span id="lastCityInfo3" class="data">LOADING!!</span>
       
       </div>
       <div class="info-box" id="launchID" hidden>

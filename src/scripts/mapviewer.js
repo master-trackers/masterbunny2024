@@ -32,74 +32,55 @@ window.onload = function () {
       }
     }
 
-    // Function to update local time
     function updateLocalTime() {
       var now = new Date(currenttimeunixsec);
-      var hours = now.getHours() % 12 || 12;
-      var minutes = now.getMinutes().toString().padStart(2, "0");
-      var seconds = now.getSeconds().toString().padStart(2, "0");
-      var ampm = now.getHours() >= 12 ? "PM" : "AM";
+      var options = { hour: 'numeric', minute: '2-digit', second: '2-digit', hour12: true };
       document.getElementById("local-time").textContent =
-        hours + ":" + minutes + ":" + seconds + " " + ampm + " LOCAL";
+        now.toLocaleString(undefined, options) + " LOCAL";
     }
-
-// Function to update UTC time
-function updateUTCTime() {
-  var now = new Date(currenttimeunixsec);
-  var hours = now.getUTCHours() % 12 || 12;
-  var minutes = now.getUTCMinutes().toString().padStart(2, "0");
-  var seconds = now.getUTCSeconds().toString().padStart(2, "0");
-  var ampm = now.getUTCHours() >= 12 ? "PM" : "AM";
-  document.getElementById("utc-time").textContent =
-    hours + ":" + minutes + ":" + seconds + " " + ampm + " UTC/GMT";
-}
-
-// Function to update London time (GMT/UTC time zone)
-function updateLondonTime() {
-  var now = new Date(currenttimeunixsec);
-  var hours = now.getUTCHours() % 12 || 12; // London is in the GMT/UTC time zone
-  var minutes = now.getUTCMinutes().toString().padStart(2, "0");
-  var seconds = now.getUTCSeconds().toString().padStart(2, "0");
-  var ampm = now.getUTCHours() >= 12 ? "PM" : "AM";
-  document.getElementById("london-time").textContent =
-    hours + ":" + minutes + ":" + seconds + " " + ampm + " LONDON";
-}
-// Function to update New York City time (assuming permanent Standard Time)
-function updateNYCTime() {
-  var now = new Date(currenttimeunixsec);
-  var offset = -5; // Always assume Standard Time is in effect (UTC-5)
-  var utcHours = now.getUTCHours();
-  var hours = (utcHours + offset + 24) % 24; // Ensure positive value before modulo
-  var ampm = hours >= 12 ? "PM" : "AM";
-  hours = hours % 12 || 12;
-  var minutes = now.getUTCMinutes().toString().padStart(2, "0");
-  var seconds = now.getUTCSeconds().toString().padStart(2, "0");
-  document.getElementById("nyc-time").textContent =
-    hours + ":" + minutes + ":" + seconds + " " + ampm + " NYC";
-}
-// Function to update Tokyo time (Japan Standard Time)
-function updateTokyoTime() {
-  var now = new Date(currenttimeunixsec);
-  var hours = (now.getUTCHours() + 9) % 24; // Tokyo is in the Japan Standard Time zone (GMT+9 in standard time)
-  var ampm = hours >= 12 ? "PM" : "AM";
-  hours = hours % 12 || 12;
-  var minutes = now.getUTCMinutes().toString().padStart(2, "0");
-  var seconds = now.getUTCSeconds().toString().padStart(2, "0");
-  document.getElementById("tokyo-time").textContent =
-    hours + ":" + minutes + ":" + seconds + " " + ampm + " TOKYO";
-}
+    
+    function updateUTCTime() {
+      var now = new Date(currenttimeunixsec);
+      var options = { hour: 'numeric', minute: '2-digit', second: '2-digit', hour12: true, timeZone: 'UTC' };
+      document.getElementById("utc-time").textContent =
+        now.toLocaleString('en-US', options) + " UTC/GMT";
+    }
+    
+    function updateLondonTime() {
+      var now = new Date(currenttimeunixsec);
+      var options = { hour: 'numeric', minute: '2-digit', second: '2-digit', hour12: true, timeZone: 'Europe/London' };
+      document.getElementById("london-time").textContent =
+        now.toLocaleString('en-US', options) + " LONDON";
+    }
+    
+    function updateNYCTime() {
+      var now = new Date(currenttimeunixsec);
+      var options = { hour: 'numeric', minute: '2-digit', second: '2-digit', hour12: true, timeZone: 'America/New_York' };
+      document.getElementById("nyc-time").textContent =
+        now.toLocaleString('en-US', options) + " NYC";
+    }
+    
+    function updateTokyoTime() {
+      var now = new Date(currenttimeunixsec);
+      var options = { hour: 'numeric', minute: '2-digit', second: '2-digit', hour12: true, timeZone: 'Asia/Tokyo' };
+      document.getElementById("tokyo-time").textContent =
+        now.toLocaleString('en-US', options) + " TOKYO";
+    }
+    
 
     var readyfordeployment = false
-    // Update local time, UTC time, London time, New York City time, and Tokyo time every second
-    setInterval(function () {
-      if (readyfordeployment === true) {
-        updateLocalTime();
-        updateUTCTime();
-        updateLondonTime();
-        updateNYCTime();
-        updateTokyoTime();
-      }
-    }, 1000);
+        // Update all times every second
+        setInterval(function () {
+          if (readyfordeployment === true) {
+            updateLocalTime();
+            updateUTCTime();
+            updateLondonTime();
+            updateNYCTime();
+            updateTokyoTime();
+          }
+        }, 1000);
+        
+    
 
     setTimeout(function () {
       document.getElementById("logo").classList.add("spread");
