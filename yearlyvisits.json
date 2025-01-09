@@ -43,18 +43,19 @@
   },
   {
     "year": 2025,
-    "hitsduringtracking": 70,
+    "hitsduringtracking": 94,
     "hitsduringpretracking": 0,
-    "hitsbeforepretrackingaftermonthstart": 9,
-    "hitsbeforemonthstart": 140,
+    "hitsbeforepretrackingaftermonthstart": 17,
+    "hitsbeforemonthstart": 214,
     "countries": {
-      "US": 194,
+      "US": 294,
       "CA": 3,
-      "RO": 6,
+      "RO": 9,
       "AR": 2,
-      "AU": 5,
+      "AU": 7,
       "BE": 2,
-      "IT": 7
+      "IT": 7,
+      "BT": 1
     }
   }
 ]
