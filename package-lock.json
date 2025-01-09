@@ -1,5 +1,5 @@
 {
-  "name": "haydens_santa_tracker",
+  "name": "haydens_bunny_tracker",
   "version": "1.2.1",
   "description": "A simple Node app built on fastify, instantly up and running. Built to be remixed on Glitch.com.",
   "main": "server.js",
@@ -13,6 +13,7 @@
     "@fastify/static": "^6.10.2",
     "@fastify/view": "^8.0.0",
     "archiver": "^7.0.1",
+    "axios": "1.7.9",
     "cors": "^2.8.5",
     "csv-parser": "^3.0.0",
     "ejs": "^3.1.9",
