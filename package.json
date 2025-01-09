@@ -33,7 +33,7 @@
     "ws": "^8.16.0"
   },
   "engines": {
-    "node": "14.x"
+    "node": "v18.20.4"
   },
   "license": "MIT",
   "keywords": [
