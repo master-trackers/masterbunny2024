@@ -2769,74 +2769,8 @@ const loadingInterval = setInterval(() => {
 /*https.createServer(options, app).listen(12310, () => {
   console.log('HTTPS Server running on port 443');
 });*/
-server.listen(port, () => {
-  clearInterval(loadingInterval);
-  const border = '==============================';
-  console.log(`\r${colors.fg.green}${border}${colors.reset}`);
-  console.log(`${colors.fg.blue}${colors.bright}Server Status: ${colors.fg.green}Running${colors.reset}`);
-  console.log(`${colors.fg.blue}Listening on port: ${colors.fg.yellow}${port}${colors.reset}`);
-  console.log(`${colors.fg.green}${border}${colors.reset}`);
 
-  // Explanation of static nature
-  console.log(`${colors.fg.magenta}${colors.bright}Explanation:${colors.reset}`);
-  console.log(`${colors.fg.cyan}The code inside the app.listen block is static because:${colors.reset}`);
-  console.log(`${colors.fg.cyan}- The port number is a fixed value (const port = 3000).${colors.reset}`);
-  console.log(`${colors.fg.cyan}- The messages printed to the console are hardcoded strings.${colors.reset}`);
-  console.log(`${colors.fg.cyan}- No external data or inputs are influencing the output, making it consistent every time the server starts.${colors.reset}`);
-
-  // Instructions for setting up port forwarding
-  console.log(`${colors.fg.magenta}${colors.bright}Port Forwarding:${colors.reset}`);
-  console.log(`${colors.fg.cyan}1. Access your router's web interface.${colors.reset}`);
-  console.log(`${colors.fg.cyan}2. Find the port forwarding section.${colors.reset}`);
-  console.log(`${colors.fg.cyan}3. Create a new port forwarding rule.${colors.reset}`);
-  console.log(`${colors.fg.cyan}4. Enter your computer's local IP address.${colors.reset}`);
-  console.log(`${colors.fg.cyan}5. Set the external and internal port to ${port}.${colors.reset}`);
-  console.log(`${colors.fg.cyan}6. Choose TCP as the protocol.${colors.reset}`);
-  console.log(`${colors.fg.cyan}7. Save the settings and restart your router if necessary.${colors.reset}`);
-
-  // Explanation from the package description
-  const packageDescription = "This project is something I have been working on for years. It's inspiration from Norad Santa Tracker and Google Santa Tracker. This should not be in the hands of anybody other than myself.";
-  console.log(`${colors.fg.magenta}${colors.bright}About This Project:${colors.reset}`);
-  console.log(`${colors.fg.cyan}${packageDescription}${colors.reset}`);
-  console.log('Checking if Server Needs autostarted.')
-  // Filepath to the TSV file
-  const filepath = path.join(__dirname, 'route2025final.tsv');
-
-  // Read the TSV file
-  fs.readFile(filepath, 'utf8', (err, data) => {
-    if (err) {
-      console.error('Error reading the file:', err);
-      return;
-    }
-
-    // Split the file into lines
-    const lines = data.split('\n');
-
-    // Extract the first tab-separated object from line 4
-    const line4 = lines[3];
-    const unixTimestampLine4 = parseInt(line4.split('\t')[0], 10);
-
-    // Extract the first tab-separated object from the last line
-    const lastLine = lines[lines.length - 1];
-    const unixTimestampLastLine = parseInt(lastLine.split('\t')[0], 10);
-
-    // Check the conditions and call startTracker if met
-   /* if (isPassed(unixTimestampLine4) && !isPassed(unixTimestampLastLine)) {
-      console.log("Conditions met, tracker being started.")
-      dosomethingtorefresh();
-      currentIndex = 1;
-      saveIndexToFile(); // Save the index to file
-      console.log("Tracker index reset.");
-      startTracker(filepath);
-      started = true;
-      readytoshowendedscreen = true;
-      sendTrackerEvent({ trackerStarted: true });
-    } else {
-      console.log('Conditions not met, tracker not started.');
-    }*/
-  });
-});
-app.listen(12140, () => {
+app.listen(8000, () => {
   const border = '==============================';
   console.log(`\r${colors.fg.green}${border}${colors.reset}`);
   console.log(`${colors.fg.blue}${colors.bright}Server Status: ${colors.fg.green}Running${colors.reset}`);
